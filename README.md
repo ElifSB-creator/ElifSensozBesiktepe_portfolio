@@ -10,7 +10,7 @@ This repository contains key artifacts developed during the **Intro2Astro 2026**
 
 *   **[ElifS_Besiktepe_CV.pdf](./ElifS_Besiktepe_CV.pdf):** A technical CV prepared with LaTeX, highlighting my expertise in MLOps, NLP, and Astrophysics.
 *   **[Exoplanet Transit Analysis](./exoplanet_transits.pdf):** A research-oriented analysis of planetary transits, utilizing Python and data from NASA archives.
-*   **Portfolio Website:** An interactive web experience built to demonstrate my research interests and project evidence [1, 6].
+*   **Portfolio Website:** An interactive web experience built to demonstrate my research interests and project evidence.
 
 ## 🛠 Technical Skills
 *   **Astronomy Tools:** TESS Light Curve Analysis, NASA Exoplanet Archive Querying, Gaia Data Visualization.
